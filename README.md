@@ -1,4 +1,4 @@
-    git clone https://outsmartin@github.com/outsmartin/tmuxforilux.git
+    git clone https://outsmartin@github.com/outsmartin/tmuxforilux.git local
 
 put the export in your .bashrc or something similar:
 

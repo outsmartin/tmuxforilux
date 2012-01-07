@@ -2,7 +2,7 @@
 
 put the export in your .bashrc or something similar:
 
-    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$HOME/local/lib
+    echo 'export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$HOME/local/lib' >> ~/.profile
 
-    export PATH=$HOME/local/bin:$PATH
+    echo 'export PATH=$HOME/local/bin:$PATH' >> ~/.profile
 
